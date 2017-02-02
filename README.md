@@ -1,2 +1,3 @@
-# tamperMonkeyScripts
-Scripts I use for better online experience
+# Codeforces Helper
+
+Improve your Codeforces experience while learning
